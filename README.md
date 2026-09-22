@@ -1,4 +1,4 @@
-# Linux Course - Requirements
+# 🐧 Linux Course - Requirements
 
 Before starting the Linux course, please install the following:
 
