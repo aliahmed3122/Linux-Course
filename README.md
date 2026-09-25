@@ -32,10 +32,16 @@ https://aliahmed3.notion.site/Linux-Course-3a415c9ac7e08009b542d18d16d11199
 
 ---
 
-## Requirements Summary
+## 4. MobaXterm 
 
-| Requirement | Link |
-|---|---|
-| VirtualBox | [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads) |
-| Ubuntu 24.04 LTS Desktop | [Download Ubuntu](https://releases.ubuntu.com/24.04.4/) |
-| Linux Course | [Open Linux Course](https://aliahmed3.notion.site/Linux-Course-3a415c9ac7e08009b542d18d16d11199) |
+> Download the **Installer Edition**.
+
+https://mobaxterm.mobatek.net/download-home-edition.html
+
+---
+
+## 5. challenges
+
+https://cmdchallenge.com/#/replace_text_in_files
+
+---
