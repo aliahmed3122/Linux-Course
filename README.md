@@ -42,6 +42,8 @@ https://mobaxterm.mobatek.net/download-home-edition.html
 
 ## 5. challenges
 
-https://cmdchallenge.com/#/replace_text_in_files
+1- https://cmdchallenge.com/#/replace_text_in_files
+
+2- https://sadservers.com/
 
 ---
